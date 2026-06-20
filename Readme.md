@@ -2,9 +2,6 @@
 
 > A Python-based Project Management System developed using Google Colab to manage projects efficiently through a menu-driven interface.
 
-![Google Colab](https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab)
-
-
 ---
 
 ## 🚀 Features
